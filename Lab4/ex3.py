@@ -5,7 +5,7 @@ from math import sqrt
 # d_ = b**2 - 4*a*c
 # then the roots can be computed as follows
 #x_i = (-b +- sqrt(d_))/(2*a)
-# write a scrript to find the roots of any given function
+# write a function to find the roots of any given quadratic function
 
 def rootFinder(a,b,c):
     d_ = b**2 - 4*a*c

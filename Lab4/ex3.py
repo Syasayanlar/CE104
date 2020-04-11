@@ -7,19 +7,6 @@ from math import sqrt
 #x_i = (-b +- sqrt(d_))/(2*a)
 # write a scrript to find the roots of any given function
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 def rootFinder(a,b,c):
     d_ = b**2 - 4*a*c
     x_1 = (-b + sqrt(d_))/(2*a)

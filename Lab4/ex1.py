@@ -1,22 +1,6 @@
 # for the range of x = 0, 956 with the increment of 2
 # compute the summation of f(x) = (x**3-x)/(x*(x-2))  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def f_(x):
     res = (x**3-x)/(x*(x-2))
     return res

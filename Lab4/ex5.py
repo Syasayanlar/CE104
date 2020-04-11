@@ -5,17 +5,6 @@
 # then write a function to compute how much seconds is the given dt value
 # for example dt = [1, 1, 0, 0, 20] means that 1 year 1 day and 20 seconds is 31622420 seconds
 
-
-
-
-
-
-
-
-
-
-
-
 def convert2seconds(dt):
     y = dt[0]
     d = dt[1]

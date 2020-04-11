@@ -3,19 +3,6 @@
 # ii. Print on the screen
 # hint : use for loop
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 i_val = 8
 
 for i in range(1, i_val+1):

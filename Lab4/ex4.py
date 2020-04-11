@@ -7,16 +7,6 @@ print(a)
 # returns an array containing terms b/w 1, 100
 # now lets write our linspace function
 
-
-
-
-
-
-
-
-
-
-
 def linspace_v2(start, end, noEl):
     incr = (end-start)/(noEl-1)
     val = start

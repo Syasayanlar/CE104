@@ -15,6 +15,7 @@ def rootFinder(a,b,c):
 
 a, b, c = 1, -3, -6
 
+print('Equation is {0}x**2 + {1}x + {2}'.format(a,b,c))
 print('Roots are ', rootFinder(a,b,c))
         
 

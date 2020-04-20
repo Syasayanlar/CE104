@@ -10,6 +10,7 @@ print(a)
 
 def linspace_v2(start, end, noEl):
     '''
+    bu fonksiyon CE104 dersinde yapildi.
     Creates an array from start to end with element number of noEl
     '''
     incr = (end-start)/(noEl-1)

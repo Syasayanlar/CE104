@@ -119,9 +119,3 @@ def primeFactors(num):
     else:
         print('Not possible in negative numbers')
         return None
-    
-    
-    
-    
-    
-        

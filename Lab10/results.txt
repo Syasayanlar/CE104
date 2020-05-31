@@ -1,0 +1,12 @@
+Equation is 1x**2 + -5x + 1
+root : 0.20871, iterations : 5
+Equation is 2x**2 + -6x + 3
+root : 0.63397, iterations : 11
+Equation is 3x**2 + -7x + 4
+root : 1.00000, iterations : 40
+Equation is 4x**2 + 8x + 1
+root : -0.13397, iterations : 6
+Equation is 5x**2 + -8x + 2
+root : 0.31010, iterations : 10
+Equation is 2x**2 + -9x + 1
+root : 0.11400, iterations : 5

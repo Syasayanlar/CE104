@@ -15,8 +15,7 @@ print('The roots are {0:.5f}, {1:.5f}'.format(x_roots[0], x_roots[1]))
 
 # now compute the roots by using newton's method
 # x_new = x_n - f(x_n)/df(x_n)
-# while the ||x_new - x_n || > TOL 
-#    x_new must be computed
+
 
 TOL = 1e-5
 diff = 1
@@ -35,6 +34,7 @@ while abs(diff) > TOL:
     
 if f_converged == True:
     print('Root found at {0:5f}'.format(x_new))
+
 
 # now put newtons method into function format
 def newton(x_n, TOL=1e-6, max_iter=1000):

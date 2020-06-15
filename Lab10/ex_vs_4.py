@@ -22,7 +22,7 @@ def newton(x_n, a, b, c, TOL=1e-6, max_iter=1000):
 
 a = [1, 2, 3, 4, 5, 2]
 b = [-5, -6, -7, 8, -8, -9]
-c = [1, 3, 4, 1, 2, 1]
+c = [1, 3, 4, 1, 2, 9]
 x_n = 0
 result_file = open("results.txt", 'w')
 for i in range(len(a)):

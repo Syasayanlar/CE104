@@ -8,5 +8,5 @@ Equation is 4x**2 + 8x + 1
 root : -0.13397, iterations : 6
 Equation is 5x**2 + -8x + 2
 root : 0.31010, iterations : 10
-Equation is 2x**2 + -9x + 1
-root : 0.11400, iterations : 5
+Equation is 2x**2 + -9x + 9
+root : 1.50000, iterations : 20
